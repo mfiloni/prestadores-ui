@@ -1,0 +1,29 @@
+{
+    "name": "tutrabajo-api",
+    "description": "Tu Trabajo UI is a dependency collection of HTML, JavaScript, and CSS assets that dynamically generate the Ui for the tutrabajo.com site",
+    "keywords": [
+        "tuTrabajo",
+        "OpenAPI",
+        "specification",
+        "documentation",
+        "API",
+        "UI"
+    ],
+    "homepage": "http://localhost",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Maximiliano Filoni",
+            "email": "maxi.filoni@tutrabajo.com"
+        },
+        {
+            "name": "Cesar Schiavone",
+            "email": "cesar.schiavone@tutrabajo.com"
+        }
+    ],
+    "extra": {
+        "branch-alias": {
+            "dev-master": "2.x-dev"
+        }
+    }
+}

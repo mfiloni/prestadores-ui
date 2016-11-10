@@ -1,0 +1,25 @@
+{
+  "name": "tutrabajo-ui",
+  "main": "dist/index.html",
+  "authors": [
+    "Maximiliano Filoni <maxi.filoni@tutrabajo.com>"
+  ],
+  "description": "Tu Trabajo UI",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "TuTrabajo",
+    "API"
+  ],
+  "license": ["Apache-2.0","Copyright 2016 SmartBear Software","./LICENSE"],
+  "homepage": "http://localhost",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
